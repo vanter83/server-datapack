@@ -1,0 +1,22 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:prismarine_bricks_stairs"
+        },
+        {
+            "item": "minecraft:prismarine_bricks_stairs"
+        },
+        {
+            "item": "minecraft:prismarine_bricks_stairs"
+        },
+        {
+            "item": "minecraft:prismarine_bricks_stairs"
+        }
+    ],
+    "result": {
+        "item": "minecraft:prismarine_bricks",
+        "count": 3
+    },
+    "group": "stair"
+}
